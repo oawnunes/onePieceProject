@@ -3,6 +3,7 @@
         background: linear-gradient(0deg, #000 20%, #00000000 50%), no-repeat;
         opacity: 100%;
         width: 100vw;
+        height: 100vh;
     }
 
     main div article {
