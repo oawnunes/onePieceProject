@@ -3,7 +3,6 @@
         background: linear-gradient(0deg, #000 20%, #00000000 50%), no-repeat;
         opacity: 100%;
         width: 100vw;
-        height: 100vh;
     }
 
     main div article {
@@ -37,10 +36,10 @@
     .icons {
         flex-direction: row;
         width: 100vw;
-        height: 100vh;
+        min-height: 100vh;
         align-items: flex-end;
         background: none;
-        padding-bottom: 20px;
+        padding-bottom: 80px;
     } 
 
     .button {
@@ -50,4 +49,4 @@
     .button img {
         max-width: 60px;
     }
-}
+} 
